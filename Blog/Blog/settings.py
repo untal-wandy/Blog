@@ -113,7 +113,7 @@ USE_I18N = True
 USE_TZ = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = [' https://16b8-205-137-52-153.ngrok-free.app']
+CSRF_TRUSTED_ORIGINS = ['  https://ecc5-205-137-52-54.ngrok-free.app']
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
